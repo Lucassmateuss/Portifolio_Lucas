@@ -13,7 +13,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nessa projeto o meu erro foi letras maiúsculas e chaves no canto errado.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nessa projeto o meu erro foi letras maiúsculas e chaves no canto errado, e alguns erros de ortografia.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
