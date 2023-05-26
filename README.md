@@ -15,7 +15,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nessa atividade não tive dificuldade
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
