@@ -1,12 +1,9 @@
 # Portifolio_Lucas
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
-Portifolio_Joao_Vitor
-
-Portfólio para documentar o processo de aprendizado da disciplina de Programação Web.
 
 Projeto: Página para calcular média
 
-Arquivo (s):
+Arquivo (s): DU-RODO
 
 ⚫ calcmedia
 
