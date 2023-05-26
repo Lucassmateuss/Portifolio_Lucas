@@ -5,8 +5,6 @@ Projeto: Página para calcular média
 
 Arquivo (s): DU-RODO
 
-cal
-
 Descrição: Página Web que calcula a média aritmética de duas notas.
 
 Tecnologias utilizadas:
