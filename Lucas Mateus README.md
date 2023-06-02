@@ -82,3 +82,4 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 Descrição: Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxYa62RSVskQ8P1UzvbeIlWkmIghp0BekinK8xGBGlSVd52581qLLISUnyKczaraffz/exec
 
 Projeto Enviar e receber dados do servidor.
+
