@@ -14,7 +14,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi esquici de colocar as duas tags de label e input, fora isso conseguir fazer a atividade.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi, Esquici de colocar as duas tags de label e input, fora isso conseguir fazer a atividade.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
