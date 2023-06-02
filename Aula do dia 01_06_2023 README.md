@@ -1,6 +1,6 @@
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
-Projeto: Página para calcular média
+Projeto: Página para calcular média ponderada
 
 Arquivo (s): Lucas
 
