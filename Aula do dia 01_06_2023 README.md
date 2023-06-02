@@ -2,7 +2,7 @@ Portfólio para documentar o processo de aprendizado disciplina de Programação
 
 Projeto: Página para calcular média
 
-Arquivo (s): DU-RODO
+Arquivo (s): Lucas
 
 Descrição: Página Web que calcula a média aritmética de duas notas.
 
