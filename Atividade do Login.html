@@ -1,3 +1,22 @@
+# Código gs
+function doGet() {
+  return HtmlService.createHtmlOutputFromFile('Login do usuário');
+}
+
+function verificarCredenciais(email, senha) {
+  var emailCorreto = 'lucas@123.com';
+  var senhaCorreta = 'lucas123';
+  
+  if (email === emailCorreto && senha === senhaCorreta) {
+    return 'Login deu certo';
+  } else {
+    return 'O Login infelizmente deu errado, tente novamente.';
+  }
+}
+
+
+# Código HTML
+
 <!DOCTYPE html>
 <html>
   <head>
