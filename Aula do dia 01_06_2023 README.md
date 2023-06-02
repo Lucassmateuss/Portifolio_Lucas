@@ -4,7 +4,7 @@ Projeto: Página para Enviar e receber dados do servidor.
 
 Arquivo (s): Lucas
 
-Descrição: Página Web que calcula a média ponderada de duas notas e dois pesos.
+Descrição: Página Web que calcula a média ponderada de duas notas e dois pesos, Ultilizando a função withSuccessHandler()
 
 Tecnologias utilizadas:
 
