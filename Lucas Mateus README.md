@@ -65,9 +65,9 @@ Portfólio para documentar o processo de aprendizado disciplina de Programação
 
 Projeto: Página para Enviar e receber dados do servidor.
 
-Arquivo (s): Lucas
+Arquivo (s): Código da Atividade de Login
 
-Descrição: Página Web que calcula a média ponderada de duas notas e de dois pesos, Ultilizando a função withSuccessHandler() para exibier a média.
+Descrição: Página Web que Envia e-mail e senha e receber dados do servidor falando se deu certo ou não.
 
 Tecnologias utilizadas:
 
@@ -75,7 +75,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi, Esquici de colocar as duas tags de label e input, fora isso conseguir fazer a atividade.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi, Esquici de colocar a tag de function verificarLogin, fora isso conseguir fazer a atividade.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
