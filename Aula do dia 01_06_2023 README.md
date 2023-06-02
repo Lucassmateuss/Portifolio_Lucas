@@ -4,15 +4,13 @@ Projeto: Página para calcular média
 
 Arquivo (s): Lucas
 
-Descrição: Página Web que calcula a média aritmética de duas notas.
+Descrição: Página Web que calcula a média aritmética de duas notas e dois pesos
 
 Tecnologias utilizadas:
 
-• HTML
-
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi, Erros de ortografia fora isso conseguir fazer a atividade
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi, Erros de ortografia fora isso conseguir fazer a atividade.
 
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
