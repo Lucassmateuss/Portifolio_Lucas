@@ -1,4 +1,4 @@
-# Portifolio_Lucas Mateus
+# Portifolio Lucas Mateus 2"A" de Informática
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
 Projeto: Página para calcular média
