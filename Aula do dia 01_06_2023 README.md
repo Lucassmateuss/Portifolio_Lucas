@@ -10,7 +10,7 @@ Descrição: Página Web que calcula a média ponderada de duas notas e de dois 
 
 Tecnologias utilizadas:
 
-  JavaScript
+• JavaScript
 
 • Google App Script
 
