@@ -10,6 +10,8 @@ Descrição: Página Web que calcula a média ponderada de duas notas e de dois 
 
 Tecnologias utilizadas:
 
+  JavaScript
+
 • Google App Script
 
 Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto o meu erro foi esquici de colocar as duas tags de label e input, fora isso conseguir fazer a atividade.
