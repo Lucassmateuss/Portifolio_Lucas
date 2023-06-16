@@ -92,7 +92,7 @@ Portfólio para documentar o processo de aprendizado disciplina de Programação
 
 Projeto: Página para Enviar dados do servidor.
 
-Arquivo (s): Código da Atividade de envio de Dadosa
+Arquivo (s): Código da Atividade de Envio de Dados
 
 Descrição: Página Web que Envia Dados para o servidor.
 
