@@ -1,3 +1,23 @@
+
+Código gs
+
+function doGet() {
+  return HtmlService.createTemplateFromFile('formulario').evaluate();
+}
+
+function doPost(e){
+
+  Logger.log(e.parameter.msg)
+  Logger.log(e.parameter.endereco)
+}
+
+function getUrl(){
+  var url = ScriptApp.getService().getUrl();
+  return url
+}
+
+
+
 Código HTML
 
 <!DOCTYPE html>
@@ -19,23 +39,3 @@ Código HTML
     </form>
   </body>
 </html>
-
-
-
-Código gs
-
-function doGet() {
-  return HtmlService.createTemplateFromFile('formulario').evaluate();
-}
-
-function doPost(e){
-
-  Logger.log(e.parameter.msg)
-  Logger.log(e.parameter.endereco)
-}
-
-function getUrl(){
-  var url = ScriptApp.getService().getUrl();
-  return url
-}
-
