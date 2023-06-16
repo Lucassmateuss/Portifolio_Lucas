@@ -106,7 +106,7 @@ Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse proje
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Link para acesso ao projeto: 
-
+https://script.google.com/macros/s/AKfycbyI3kMBiV34dQD-tCxvB3y9mGCybVN9MqIF4urNXaOEZC096XDbzPi_9Q79TwPKZmJ3dA/exec
 
 Projeto Enviar dados do servidor.
 
