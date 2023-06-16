@@ -84,3 +84,31 @@ https://script.google.com/macros/s/AKfycbxYa62RSVskQ8P1UzvbeIlWkmIghp0BekinK8xGB
 
 Projeto Enviar e receber dados do servidor.
 
+
+
+
+# Atividade de Envio de Dados 15_06_2023
+Portfólio para documentar o processo de aprendizado disciplina de Programação Web
+
+Projeto: Página para Enviar dados do servidor.
+
+Arquivo (s): Código da Atividade de envio de Dadosa
+
+Descrição: Página Web que Envia Dados para o servidor.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto Felizmente não teve dificuldade.
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Link para acesso ao projeto: 
+
+
+Projeto Enviar dados do servidor.
+
+
+
