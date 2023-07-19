@@ -115,9 +115,9 @@ Portfólio para documentar o processo de aprendizado disciplina de Programação
 
 Projeto: Página que Enviar dados do servidor para o Planilha.
 
-Arquivo (s): 
+Arquivo (s): Projeto Livraria (salvando na Planilha).
 
-Descrição: Página Web que Envia Dados para o servidor.
+Descrição: Página Web que Envia Dados para a Planilha.
 
 Tecnologias utilizadas:
 
@@ -125,7 +125,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto Felizmente não teve dificuldade.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar atividade fazendo ela ser enviar para a planilha.
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Link para acesso ao projeto: 
