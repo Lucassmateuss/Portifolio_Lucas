@@ -125,7 +125,7 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar atividade fazendo ela ser enviar para a planilha.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar atividade fazendo ela ser enviar para a planilha, Mas no inicio não tava dando certo por causa que não estava enviando para o portfólio.
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Link para acesso ao projeto: 
