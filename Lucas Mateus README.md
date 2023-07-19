@@ -110,5 +110,29 @@ https://script.google.com/macros/s/AKfycbyI3kMBiV34dQD-tCxvB3y9mGCybVN9MqIF4urNX
 
 Projeto Enviar dados do servidor.
 
+# Atividade de Cadastro de Livros 16_06_2023
+Portfólio para documentar o processo de aprendizado disciplina de Programação Web
+
+Projeto: Página que Enviar dados do servidor para o Planilha.
+
+Arquivo (s): 
+
+Descrição: Página Web que Envia Dados para o servidor.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto Felizmente não teve dificuldade.
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Link para acesso ao projeto: 
+https://script.google.com/macros/s/AKfycbyUi7iisGR-1KV4SdCfL4_JQnkINDrZOfx6V_HrFh5gQLLv9YpCAFAPAgfZZlYL-xzq/exec
+
+Projeto Enviar dados para a planilha.
+
+
 
 
