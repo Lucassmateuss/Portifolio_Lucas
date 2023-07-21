@@ -135,11 +135,11 @@ Projeto cadLivro
 # Lista de Exercícios Práticos Tipo2 22_06_2023
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
-Projeto: 
+Projeto: Calcular o gasto para custear a merenda dos alunos em um determinado Mês,  crie uma função para calcular o valor a ser gasto com a merenda em um mês utilizando a fórmula ( valorFinal = dias* qtdAlunos * valorRefeicao )
 
 Arquivo (s): Projeto Para Calcular o Gasto da Merenda dos Alunos em um determinado Mês.
 
-Descrição:
+Descrição: No servidor, crie uma função para calcular o valor a ser gasto com a merenda em um mês, o valor final deve exibido na própria página HTML que contém o formulário.
 
 Tecnologias utilizadas:
 
@@ -154,6 +154,31 @@ Descrição: Link para acesso ao projeto:
 https://script.google.com/home/projects/1q4IcJxoisHtOpi7DnYrxHGprGU1rBXJdP15b4BJVvRnuMcGtchVXxgBt/edit
 
 Projeto GASTODAESCOLA
+
+
+# Segunda Parte da Lista de Exercícios Práticos tipo2 22_06_2023
+Portfólio para documentar o processo de aprendizado disciplina de Programação Web
+
+Projeto: Altere o projeto acima para que os dados do formulário sejam enviados por meio do método POST do protocolo HTTP.
+
+Arquivo (s): Código da Atividade de Envio de Dados
+
+Descrição: Calcule o valor final e exiba no log do servidor.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto infelizmente não consegui realizar a atividade só consegui fazer a estrutura. 
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Link para acesso ao projeto: 
+https://script.google.com/home/projects/1iWnsdXvQiF8kc9AHxsA1geLyE9MJtxIwuhFa5KXKxDN43E8u-CoIsrZ4/edit
+
+Projeto SegundaParte
+
 
 
 
