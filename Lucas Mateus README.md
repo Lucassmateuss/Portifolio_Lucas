@@ -1,4 +1,6 @@
 # Portifolio Lucas Mateus 2 "A" de Informática
+# Primeira Atividade (Teste)
+
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
 Projeto: Página para calcular média
@@ -31,7 +33,7 @@ Portfólio para documentar o processo de aprendizado disciplina de Programação
 
 Projeto: Página para Enviar e receber dados do servidor.
 
-Arquivo (s): Lucas
+Arquivo (s): Média_ponderada_2_notas
 
 Descrição: Página Web que calcula a média ponderada de duas notas e de dois pesos, Ultilizando a função withSuccessHandler() para exibier a média.
 
