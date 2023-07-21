@@ -1,7 +1,5 @@
 # Portifolio Lucas Mateus 2 "A" de Informática
 
-Primeira Atividade (Teste)
-
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
 Projeto: Página para calcular média
