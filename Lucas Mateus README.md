@@ -95,9 +95,6 @@ Projeto listaCompras
 
 
 
-
-
-
 # Atividade do Login 02_06_2023
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
