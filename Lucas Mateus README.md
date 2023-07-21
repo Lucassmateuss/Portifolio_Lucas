@@ -125,13 +125,37 @@ Tecnologias utilizadas:
 
 • Google App Script
 
-Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar atividade fazendo ela ser enviar para a planilha, Mas no inicio não tava dando certo por causa que não estava enviando para o portfólio.
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar a atividade fazendo ela ser enviar para a planilha, Mas no inicio não tava dando certo por causa que não estava enviando para o portfólio.
 Erro: TypeError: Cannot read properties of null (reading 'value')
 
 Descrição: Link para acesso ao projeto: 
 https://script.google.com/macros/s/AKfycbyUi7iisGR-1KV4SdCfL4_JQnkINDrZOfx6V_HrFh5gQLLv9YpCAFAPAgfZZlYL-xzq/exec
 
-Projeto Enviar dados para a planilha.
+Projeto cadLivro
+
+# Lista de Exercícios Práticos Tipo2 22_06_2023
+Portfólio para documentar o processo de aprendizado disciplina de Programação Web
+
+Projeto: 
+
+Arquivo (s): Projeto Para Calcular o Gasto da Merenda dos Alunos em um determinado Mês.
+
+Descrição:
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Nesse projeto consegue realizar a atividade.
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Link para acesso ao projeto: 
+https://script.google.com/home/projects/1q4IcJxoisHtOpi7DnYrxHGprGU1rBXJdP15b4BJVvRnuMcGtchVXxgBt/edit
+
+Projeto GASTODAESCOLA
+
 
 
 
