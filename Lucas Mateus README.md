@@ -52,6 +52,43 @@ Projeto Media
 
 
 
+# Projeto Lista de Compras 19_05_2023
+Portfólio para documentar o processo de aprendizado disciplina de Programação Web
+
+Projeto: Página para 
+
+Arquivo (s): Lista de Conpras
+
+Descrição: Colocar a quantidade de produtos para calcular.
+
+Tecnologias utilizadas:
+
+• JavaScript
+
+• Google App Script
+
+Dificuldades/erros encontrados durante o desenvolvimento do projeto: Consegui realizar atvidade, Porém não esta sendo executada.
+
+Erro: TypeError: Cannot read properties of null (reading 'value')
+
+Descrição: Link para acesso ao projeto: 
+https://script.google.com/macros/s/AKfycbyV0bJpcvpI-tpq09cBsrxXV48DxYw7bJ5VXz0Xo9C9HPyUyfFguAq6FmLNL1zAD5-f/exec
+
+Projeto listaCompras
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -131,6 +168,15 @@ Descrição: Link para acesso ao projeto:
 https://script.google.com/macros/s/AKfycbyUi7iisGR-1KV4SdCfL4_JQnkINDrZOfx6V_HrFh5gQLLv9YpCAFAPAgfZZlYL-xzq/exec
 
 Projeto cadLivro
+
+
+
+
+
+
+
+
+
 
 # Lista de Exercícios Práticos Tipo2 22_06_2023
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
