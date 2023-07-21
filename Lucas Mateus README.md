@@ -63,7 +63,7 @@ Projeto Media
 # Atividade do Login 02_06_2023
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
 
-Projeto: Página para Enviar e receber dados do servidor.
+Projeto: Página para Enviar e receber dados do servidor, fazendo login.
 
 Arquivo (s): Código da Atividade de Login
 
@@ -107,7 +107,7 @@ Erro: TypeError: Cannot read properties of null (reading 'value')
 Descrição: Link para acesso ao projeto: 
 https://script.google.com/macros/s/AKfycbyI3kMBiV34dQD-tCxvB3y9mGCybVN9MqIF4urNXaOEZC096XDbzPi_9Q79TwPKZmJ3dA/exec
 
-Projeto Enviar dados do servidor.
+Projeto formulario
 
 # Atividade de Cadastro de Livros 16_06_2023
 Portfólio para documentar o processo de aprendizado disciplina de Programação Web
